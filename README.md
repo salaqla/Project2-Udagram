@@ -28,6 +28,10 @@ localhost:8082/filteredimage?image_url=https://timedotcom.files.wordpress.com/20
 
 3. Successful responses have a 200 code, at least one error code for caught errors (i.e. 422)
 
+(Steps to run localy)
+1. Initialize a new project: "npm i".
+2. run the development server with "npm run dev".
+
 
 ### Elastic Beanstalk Deployment
 
@@ -37,6 +41,10 @@ localhost:8082/filteredimage?image_url=https://timedotcom.files.wordpress.com/20
 
 3. An endpoint URL for a running elastic beanstalk deployment (EB_URL) has been submitted along with the project submission. This endpoint responds to valid GET requests including:
 
+(Steps to Deploying in EB system)
+1. Type "eb init" to initialize ElasticBeanstalk. 
+2. Type "eb create" to create new environment to deploy our image-filter service.
+3. Type "eb deploy" to push changes.
 
 ### GitHub repository
 
