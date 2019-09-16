@@ -3,7 +3,14 @@
 ##  Education project from Udacity - Cloud Developer Nanodegree Program -  Project 2 Udagram
 ##  In this project I develop a cloud-based application for uploading and filtering images
 
-Tasks that are done
+
+
+
+
+
+
+
+#  Tasks that are done
 
 ### Engineering Process and Quality
 
