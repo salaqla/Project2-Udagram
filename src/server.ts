@@ -18,7 +18,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
   // Image filtering Endpoint
   // Returns a filtered image to the user
   app.get( "/filteredimage", async ( req, res ) => {
-    let image_url = req.query.image_url;
+    let image_url:string = req.query.image_url;
     if (image_url) {
       filterImageFromURL(image_url).then((response) => {
         res.status(200).sendFile(response);

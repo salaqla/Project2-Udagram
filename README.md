@@ -28,6 +28,11 @@ localhost:8082/filteredimage?image_url=https://timedotcom.files.wordpress.com/20
 3. An endpoint URL for a running elastic beanstalk deployment (EB_URL) has been submitted along with the project submission. This endpoint responds to valid GET requests including:
 
 
+### GitHub repository
+
+https://github.com/salaqla/Project2-Udagram.git
+
+
 ### AWS EB Endpoint
 http://project2-udagram2-dev.us-east-1.elasticbeanstalk.com/
 
