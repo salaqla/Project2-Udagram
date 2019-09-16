@@ -1,7 +1,7 @@
 # Sami Alaqla - Udagram Image Filtering Microservice project
 
-##  Education project from Udacity - Cloud Developer Nanodegree Program -  Project 2 Udagram
-##  In this project I develop a cloud-based application for uploading and filtering images
+###  Education project from Udacity - Cloud Developer Nanodegree Program -  Project 2 Udagram
+###  In this project I develop a cloud-based application for uploading and filtering images
 
 
 
